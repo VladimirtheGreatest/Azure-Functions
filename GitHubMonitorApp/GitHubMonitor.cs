@@ -30,7 +30,7 @@ namespace GitHubMonitorApp
     }
 }
 
-
+//testing azure function
 public class Rootobject
 {
     public string zen { get; set; }
