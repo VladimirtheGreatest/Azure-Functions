@@ -30,9 +30,6 @@ namespace GitHubMonitorApp
     }
 }
 
-// { firstName: "Tim", lastName: "Corey" }
-// data.firstName = "Tim";
-// data.lastName = "Corey";
 
 
 public class Rootobject
